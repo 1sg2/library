@@ -18,5 +18,15 @@
         },
         "language": "de",
         "year": 2023
-    }
+    },
+    {
+        "title": "High Fidelity",
+        "author": {
+            "firstName": "Nick",
+            "lastName": "Hornby",
+            "alive": true
+        },
+        "language": "en",
+        "year": null
+    },
 ]
